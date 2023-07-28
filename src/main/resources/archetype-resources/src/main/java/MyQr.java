@@ -29,10 +29,10 @@ public class MyQr {
     {
 
 
-        String data = ;
+        String data = "https://maven.apache.org/guides/introduction/introduction-to-the-pom.html";
 
 
-        String path = ;
+        String path = "demo.png";
 
 
         String charset = "UTF-8";
